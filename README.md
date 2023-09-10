@@ -7,7 +7,7 @@ A limited partnership where the Limited Partners (LPs) are institutional investo
 ### Purpose and Scope. 
 * 1. Acquire land, design, and develop an iconic high-rise residential building spanning a height of 90-120 meters.
   2.  Deliver to LPs their proportionate share of apartments. They're free to sell or lease these based on their financial strategies.
-  3. Cost-based rate: The LP's will receive their apartments at cost reflecting the actual cost of development. This rate is determined based on a combination of construction costs, regulatory fees, land acquisition costs, and a nominal markup for unforeseen expenses. 
+  3. Cost-based rate to Real Estate Funds: The Limited Partnership has strategically chosen to sell apartments at a cost base exclusively to real estate funds, rather than to individual investors. This approach allows these funds to acquire assets at a price that presents them as a lucrative investment. By creating a unique clientele of institutional investors, the fund ensures a continuous influx of capital and establishes long-term relationships that can lead to repeat business. This model not only streamlines our sales and marketing efforts but also aligns with our objective of ensuring steady and predictable sales cycles.
   4. Achieve a targeted ROI OF 15%+ per annum compared to market prices of apartments. This ROI is calculated based on current market trends, expected appreciation, and rental yields.
   5. Enhance the potential for long term growth through a software platform for the sale and rental of apartments
   6. Enhance value by Deliver a building management platform enabling tenants to manage their building and service amenities
