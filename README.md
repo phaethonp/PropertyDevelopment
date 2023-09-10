@@ -6,17 +6,17 @@ A limited partnership where the Limited Partners (LPs) are exclusively instituti
 # Investment objectives
 ### Purpose and Scope. 
 * 1. Acquire land, design, and develop an iconic high-rise residential building spanning a height of 90-120 meters.
-  2. Deliver to LPs their proportionate share of apartments at a rate reflecting the actual cost of development.  This cost will encompass all development-related expenses plus the GP's compensations
-  3. Achieve a targeted ROI OF 15%+ per annum compared to market prices of apartments
+  2. Deliver to LPs their proportionate share of apartments at a rate reflecting the actual cost of development. This rate is determined based on a combination of construction costs, regulatory fees, and a nominal markup for unforeseen expenses.
+  3. Achieve a targeted ROI OF 15%+ per annum compared to market prices of apartments. This ROI is calculated based on current market trends, expected appreciation, and rental yields.
   4. Enhance the potential for long term growth through a software platform for the sale and rental of apartments
   5. Enhance value by Deliver a building management platform enabling tenants to manage their building and service amenities
 
 **Maximum Capped Cost:** The GP will establish a predetermined maximum budgeted cost per apartment. This cap ensures predictability for the LPs and demonstrates the GP's commitment to cost control and efficiency. Any residual funds post-completion will be proportionally returned to the LPs.
 
-**GP Compensation:** Through a sweat equity stake in the project, the GP will retain 20% of the total apartment units as compensation, aligning the GP's interests with project success.
+**GP Compensation:** Through a sweat equity stake in the project, the GP will retain 20% of the total apartment units as compensation. This percentage is in line with industry standards, considering the risks and responsibilities undertaken by the GP.
 
 # Investment Strategies
-To achieve its strategies the Partnership will acquire land in city centers that fall under the building incentives cheme in the Republic of Cyprus and design and develop the project.
+To achieve its strategies, the Partnership will acquire land in city centers that fall under the building incentives scheme in the Republic of Cyprus. The building incentives scheme offers increased building density height terms and expedited approvals for developments in designated areas, promoting urban development.
 
 ### Architecture, Engineering, and Planning Strategies
 We target the upscale market delivering outstanding design and engineering
@@ -25,12 +25,17 @@ Our architectural design and planning prioritize essential facilities and common
 **Low building management and maintenance costs**
 Our 
 **Amenities:** Furthermore, our approach to amenities and services is streamlined through external collaborations and our proprietary platform, ensuring premium experiences without the overheads.
-**Heating and cooling systems:** specifically tailored to the Cyprus climate, we ensure they are not over-engineered, thereby significantly reducing maintenance costs. "
+**Heating and cooling systems:** Specifically tailored to the Cyprus climate, we ensure they are not over-engineered, thereby significantly reducing maintenance and running costs.
+
+### Fair apartment split algorithm
+* The apartment split among LPs is based on their proportionate investment in the project. An algorithm ensures that the split is equitable, considering factors like apartment size, floor level, and view orientation
 
 
 
 ### Detail Description:
-The average apartment size is 110 sqm, with individual units varying between 90 to 130 sqm. each apt has a 20-30 sqm covered outdoor space<br>
+* The average apartment size is 110 sqm, with individual units varying between 90 to 130 sqm. This size range is based on market research targeting middle to upper-middle-class families and corporate employees
+* Each apartment has a 20-30 sqm covered outdoor space. This space is designed to enhance the living experience, providing a relaxation area and potentially increasing the resale value.
+
 
 ### Roles and Responsibilities of the GP
 * Acquisition of Land: Identifying, evaluating, and acquiring suitable land for the project.
@@ -57,18 +62,18 @@ The fund structure allows for a pooling of capital from multiple investors (LPs)
 **Sweat Equity Share:** Recognizing the efforts and risks involved, the GP will retain 20% of the apartments as sweat equity, ensuring our interests are aligned with the project's long-term success.
 
 ### Offering Memorandum: 
-The Private Placement Memorandum (PPM) outlines the fund's strategy, terms, risks, and other pertinent details. It serves as the primary document for potential investors.
+The Private Placement Memorandum (PPM) outlines the fund's strategy, terms, risks, and other pertinent details. Interested parties can access the PPM via a dedicated link on our website.
 
 ### Pre-Closing Capital Commitments:
-Capital Call: The General Partner (GP), will issue a "capital call" for a portion of the committed capital. This is to cover preliminary expenses like market analysis, due diligence, and other pre-investment activities.
+The General Partner (GP) will issue a "capital call" for a portion of the committed capital. Capital calls are expected to occur semi-annually, with an average amount equivalent to 17% of the committed capital.
 
 ### Expense Allocation:
-**Organizational Expenses:** These are costs associated with setting up the fund, such as legal fees, regulatory filings, and initial marketing. Typically, the fund covers these expenses, but there's often a cap or limit set in the PPM.
-
-**Due Diligence and Pre-Investment Expenses:** Costs related to market analysis, site visits, initial due diligence, and other pre-investment activities are also typically borne by the fund. However, it's essential to specify in the fund's documents which expenses will be covered.
+* Organizational Expenses: These are costs associated with setting up the fund. Expected to be within 2-3% of the total fund size.
+* Due Diligence and Pre-Investment Expenses: Costs related to market analysis, site visits, and initial due diligence. Estimated to be around 1-2% of the total fund size.
 
 ### Management Fee & Expense Reimbursement:
-**Management Fee:** The GP usually charges an annual management fee, often a percentage of the committed or invested capital. This fee compensates the GP for managing the fund and can be used to cover some of the operational expenses.
+Management Fee: The GP usually charges an annual management fee. This fee is set at 2% of the committed or invested capital.
+Expense Reimbursement: Some specific expenses might be directly reimbursed by the fund. Terms of such reimbursements are detailed in the fund's official documents.
 
 **Expense Reimbursement:** Some specific expenses, especially those incurred during the pre-investment phase, might be directly reimbursed by the fund rather than being covered by the management fee. The terms of such reimbursements should be clearly outlined in the fund's documents.
 
@@ -82,16 +87,5 @@ Capital Call: The General Partner (GP), will issue a "capital call" for a portio
 The GP delivers fully operational apartments to the LP's and that concludes the obligations of the GP towards the LP's.
 
 
-
-### Alignment of Interests: 
-The GP's compensation is tied to the performance of the investment, aligning the GP's interests with those of the LPs.
-
-Key Components of the Real Estate Private Equity Fund Structure:
-Fund Management Fee: 0.5%
-Sweat Equity: The GP will retain 20% of the apartments aligning his interests with the interests of the LP's.
-
-
-
-### FAIR APARTMENT SPLIT ALGORITHM
 
 # Risk Mitigation
