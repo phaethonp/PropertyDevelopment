@@ -30,17 +30,20 @@ Our architectural design and planning prioritize essential facilities and common
 
 **Residential Units Detail Description:**
 * The average apartment size is 110 sqm, with individual units varying between 90 to 1700 sqm including outdoor spaces. This size range is based on market research targeting middle to upper-middle-class families and corporate employees
-* Each apartment has a 20-30 sqm covered outdoor space. This space is designed to enhance the living experience, providing a relaxation area and potentially increasing the resale value.
+* Each apartment has a 20-30 sqm covered outdoor space. This space is designed to enhance the living experience, providing a relaxation area and potentially increasing the resale value.<br>
 
-**Low building management and maintenance costs**
+**Low building management and maintenance costs**<br>
 Our 
-**Amenities:** Furthermore, our approach to amenities and services is streamlined through external collaborations and our proprietary platform, ensuring premium experiences without the overheads.
+**Amenities:** Furthermore, our approach to amenities and services is streamlined through external collaborations and our proprietary platform, ensuring premium experiences without the overheads.<br>
 **Heating and cooling systems:** Specifically tailored to the Cyprus climate, we ensure they are not over-engineered, thereby significantly reducing maintenance and running costs.
+<br>
 
+### Custom-made project management platform
+We have deployed a unique platform to allow us to manage project communication with all stakeholders effectively and reduce pre-construction times significantly<br>
 # Fund Structure:
-**Legal Structure:** Limited Partnership
-**Limited Partners (LPs):** Institutional external investors who provide the the capital but have limited liability and are not involved in the day-to-day management
-**General Partner (GP):** The GP is the developer responsible for the day-to-day management of the fund, making investment decisions, and executing the project.
+**Legal Structure:** Limited Partnership<br>
+**Limited Partners (LPs):** Institutional external investors who provide the the capital but have limited liability and are not involved in the day-to-day management<br>
+**General Partner (GP):** The GP is the developer responsible for the day-to-day management of the fund, making investment decisions, and executing the project.<br>
 
 ### Roles and Responsibilities of the GP
 * Acquisition of Land: Identifying, evaluating, and acquiring suitable land for the project.
