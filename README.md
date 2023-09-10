@@ -7,8 +7,10 @@ A limited partnership where the Limited Partners (LPs) are institutional investo
 ### Purpose and Scope. 
 * 1. Acquire land, design, and develop an iconic high-rise residential building spanning a height of 90-120 meters.
   2.  Deliver to LPs their proportionate share of apartments. They're free to sell or lease these based on their financial strategies.
-  3. Cost-based rate to Real Estate Funds: The Limited Partnership has strategically chosen to sell apartments at a cost base exclusively to real estate funds, rather than to individual investors. This approach allows these funds to acquire assets at a price that presents them as a lucrative investment. By creating a unique clientele of institutional investors, the fund ensures a continuous influx of capital and establishes long-term relationships that can lead to repeat business. This model not only streamlines our sales and marketing efforts but also aligns with our objective of ensuring steady and predictable sales cycles.
+### Core Strategy
+Cost-based rate to Real Estate Funds: The Limited Partnership has strategically chosen to sell apartments at a cost base exclusively to real estate funds, rather than to individual investors. This approach allows these funds to acquire assets at a price that presents them as a lucrative investment. By creating a unique clientele of institutional investors, the fund ensures a continuous influx of capital and establishes long-term relationships that can lead to repeat business. This model not only streamlines our sales and marketing efforts but also aligns with our objective of ensuring steady and predictable sales cycles.
   4. Achieve a targeted ROI OF 15%+ per annum compared to market prices of apartments. This ROI is calculated based on current market trends, expected appreciation, and rental yields.
+### Software Support Platform 
   5. Enhance the potential for long term growth through a software platform for the sale and rental of apartments
   6. Enhance value by Deliver a building management platform enabling tenants to manage their building and service amenities
 
@@ -77,4 +79,23 @@ The GP delivers fully operational apartments to the LP's and that concludes the 
 
 
 
-# Risk Mitigation
+# Risk Mitigation Strategies:
+1.0 Construction Management:<br>
+1.1 Procurement of Materials: By directly handling the procurement of materials and delivering them to subcontractors, the GP effectively mitigates the risk associated with subcontractor insolvency. This strategy ensures that even if a subcontractor faces financial difficulties, the project won't be stalled due to material shortages. Moreover, by eliminating the middleman, the GP can significantly reduce overhead costs and profits that subcontractors might add to material procurement. This direct control also ensures timely delivery of materials, keeping the project on schedule.<br>
+
+1.2 Acting as the General Contractor: The decision for the GP to act as the general contractor is a strategic one. By being the primary point of responsibility on the construction site, the GP can maintain full control over all activities. This control is crucial, especially in regions where local regulations favor the general contractor in disputes. By being the general contractor, the GP ensures that they aren't held hostage by any other entity in case of disagreements or issues. Furthermore, by assigning all works as subcontracts, the GP can maintain flexibility in choosing specialized teams for different tasks, ensuring quality and efficiency.<br>
+
+1.3 Floorplan Design Flexibility: Introducing a floor-based modular system is an innovative approach to risk mitigation. This system allows the GP to remain agile in the face of changing market demands. If there's a shift in market trends, such as a preference for larger living spaces or additional rooms, the modular system allows for easy modifications to the floor plans. This adaptability ensures that the apartments remain attractive to potential buyers or tenants, maximizing occupancy rates and ROI.<br>
+
+2.0 Market and Economic Risks:<br>
+
+3.0 Regulatory and Legal Risks:<br>
+3.1 Zoning and Permit Changes: Local authorities might change zoning laws or permit requirements, affecting the project's viability. Mitigation: Regularly liaising with local authorities and staying updated on potential regulatory changes can help anticipate and adapt to such changes.<br>
+
+3.2 Contractual Disputes: Disagreements with subcontractors, suppliers, or buyers can lead to legal disputes. Mitigation: Clear, comprehensive contracts with dispute resolution clauses and maintaining open communication channels can help prevent or quickly resolve disputes.<br>
+
+4.0 Environmental and Operational Risks:<br>
+
+4.1 Natural Disasters: Events like earthquakes, floods, or hurricanes can damage the property. Mitigation: Investing in disaster-resistant construction methods and securing comprehensive insurance can help protect against such risks.<br>
+
+4.2 Operational Delays: Unforeseen events, like labor strikes or global pandemics, can delay construction. Mitigation: Maintaining a buffer in the project timeline and having contingency plans in place can help manage such delays.<br>
