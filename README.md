@@ -83,7 +83,7 @@ The General Partner (GP) will issue a "capital call" for a portion of the commit
 ### Exit Strategy
 The GP delivers fully operational apartments to the LP's and that concludes the obligations of the GP towards the LPs.
 
-# Risk Mitigation Strategies:
+### Risk Mitigation Strategies:
 1.0 Construction Management:<br>
 1.1 Procurement of Materials: By directly handling the procurement of materials and delivering them to subcontractors, the GP effectively mitigates the risk associated with subcontractor insolvency. This strategy ensures that even if a subcontractor faces financial difficulties, the project won't be stalled due to material shortages. Moreover, by eliminating the middleman, the GP can significantly reduce overhead costs and profits that subcontractors might add to material procurement. This direct control also ensures timely delivery of materials, keeping the project on schedule.<br>
 
