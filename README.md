@@ -1,7 +1,21 @@
-# Direct Investment in property development
+# High-Rise Residential Tower
+### Objective:
+Development and construction of a high-rise residential tower, comprising a series of luxury apartments. The project aims to attract capital contributions from Limited Partners (LPs) who, in return, will receive ownership of specific apartments within the tower.
 
-### The Limited Partnership
-A limited partnership where the Limited Partners (LPs) are institutional investors such as Real Estate funds, AIF etc. The LPs will invest in a high-rise residential real estate development project managed by the General Partner (GP). 
+### Structure: The Limited Partnership
+The project is managed under a Limited Partnership (LP) framework, with a General Partner (GP) overseeing the project's execution, management, and strategic decisions. 
+
+### Capital Contributions & Apartment Allocation:
+* LPs: When an LP invests in the project, their capital contribution is directly tied to a pre-determined number of apartments, the cost of which is calculated based on the actual development cost.
+* GP: As compensation for the management, oversight, and inherent risks undertaken, the GP will receive entitlement to 25% of all apartments constructed within the tower.
+
+### Pricing Mechanism:
+The cost of each apartment is pre-determined before the LPs make their capital contribution. This provides clarity and transparency, ensuring that LPs are fully aware of what they receive in return for their investment.
+
+### General Partner Compensation:
+General Partner Compensation:
+The GP's primary compensation is in the form of real estate equity. Out of the total apartments built, the GP is entitled to 25% as a reward for their management efforts, risks, and expertise brought to the project. This percentage is in line with industry standards, considering the risks and responsibilities undertaken by the GP.
+
 
 ### Investment objectives
 * **Purpose and Scope:** Acquire land, design, and develop an iconic high-rise residential building spanning a height of 90-120 meters.
@@ -19,8 +33,6 @@ The GP will establish a predetermined maximum budgeted cost per apartment. This 
 * Enhance the potential for long-term growth through a software platform for the sale and rental of apartments
 * Enhance value by Deliver a building management platform enabling tenants to manage their building and service amenities
 
-### GP Compensation:
-Through a sweat equity stake in the project, the GP will retain 20% of the total apartment units as compensation. This percentage is in line with industry standards, considering the risks and responsibilities undertaken by the GP.
 
 ### Fair apartment split algorithm
 The apartment split among LPs is based on their proportionate investment in the project. An algorithm ensures that the split is equitable, considering factors like apartment size, floor level, and view orientation.
