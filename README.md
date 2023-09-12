@@ -2,6 +2,9 @@
 ### Objective:
 Development and construction of a high-rise residential tower, comprising a series of upscale design  apartments. We're inviting Limited Partners (LPs) to be an integral part of our journey. With each contribution, LPs will be securing specific apartments in the tower, all at a cost-centric valuation. This approach not only ensures a tangible return on investment but also positions our partners at a vantage point in the property market
 
+### Core Strategy
+**Cost-based rate to Real Estate Funds:** The Limited Partnership has strategically chosen to sell apartments at a cost base exclusively to real estate funds, rather than to individual investors or to end buyers. This approach allows these funds to acquire assets at a price that presents them as a lucrative investment. By creating a unique clientele of institutional investors, the fund ensures a continuous influx of capital and establishes long-term relationships that can lead to repeat business. This model not only streamlines our sales and marketing efforts but also aligns with our objective of ensuring steady and predictable sales cycles.
+
 ### Structure: The Limited Partnership
 The project is managed under a Limited Partnership (LP) framework, with a General Partner (GP) overseeing the project's execution, management, and strategic decisions. 
 
@@ -11,6 +14,8 @@ The project is managed under a Limited Partnership (LP) framework, with a Genera
 
 ### Pricing Mechanism:
 The cost of each apartment is pre-determined before the LPs make their capital contribution. This provides clarity and transparency, ensuring that LPs are fully aware of what they receive in return for their investment.
+### Maximum Capped Cost
+The GP will establish a predetermined maximum budgeted cost per apartment. This cap ensures predictability for the LPs and demonstrates the GP's commitment to cost control and efficiency. Any residual funds post-completion will be proportionally returned to the LPs.
 
 ### General Partner Compensation:
 General Partner Compensation:
@@ -23,11 +28,8 @@ The GP's primary compensation is in the form of real estate equity. Out of the t
 * Achieve a targeted ROI OF 15%+ per annum compared to market prices of apartments. This ROI is calculated based on current market trends, expected appreciation, and rental yields.
 
 
-### Core Strategy
-**Cost-based rate to Real Estate Funds:** The Limited Partnership has strategically chosen to sell apartments at a cost base exclusively to real estate funds, rather than to individual investors or to end buyers. This approach allows these funds to acquire assets at a price that presents them as a lucrative investment. By creating a unique clientele of institutional investors, the fund ensures a continuous influx of capital and establishes long-term relationships that can lead to repeat business. This model not only streamlines our sales and marketing efforts but also aligns with our objective of ensuring steady and predictable sales cycles.
 
-### Maximum Capped Cost
-The GP will establish a predetermined maximum budgeted cost per apartment. This cap ensures predictability for the LPs and demonstrates the GP's commitment to cost control and efficiency. Any residual funds post-completion will be proportionally returned to the LPs.
+
 
 ### Proprietary Software Support Platform 
 * Enhance the potential for long-term growth through a software platform for the sale and rental of apartments
