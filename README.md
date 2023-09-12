@@ -9,7 +9,7 @@ The Limited Partnership has strategically chosen to sell apartments at a cost ba
 **Annualized Return on Investment:** <br>
 Limited Partners (LPs) will obtain property assets with considerable appreciation potential. It is projected that LPs will achieve an annualized Return on Investment (ROI) of 25%, calculated from the date of their initial capital contribution to the point of apartment delivery.<br>
 
-**Landamrk Building Proposition:** <br>
+**Landmark Building Proposition:** <br>
 The objective is to construct a residential tower of notable stature within the city. Subject to regulatory approvals, the development anticipates a structure comprising up to 30 floors, positioning it as a defining element of the city's architectural landscape.<br>
 
 ### Structure: The Limited Partnership
