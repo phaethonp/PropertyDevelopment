@@ -7,7 +7,7 @@ Development and construction of a high-rise residential tower, comprising a seri
 The Limited Partnership has strategically chosen to sell apartments at a cost base exclusively to real estate funds, rather than to individual investors or to end buyers. This approach allows these funds to acquire assets at a price that presents them as a lucrative investment. By creating a unique clientele of institutional investors, the fund ensures a continuous influx of capital and establishes long-term relationships that can lead to repeat business. This model not only streamlines our sales and marketing efforts but also aligns with our objective of ensuring steady and predictable sales cycles.<br>
 
 **Annualized Return on Investment:** <br>
-Limited Partners (LPs) will obtain property assets with considerable appreciation potential. It is projected that LPs will achieve an annualized Return on Investment (ROI) of 25%, calculated from the date of their initial capital contribution to the point of apartment delivery.<br>
+Limited Partners (LPs) will obtain property assets with considerable appreciation potential. It is projected that LPs will achieve an annualized Return on Investment (ROI) of 20%, calculated from the date of their initial capital contribution to the point of apartment delivery.<br>
 
 **Landmark Building Proposition:** <br>
 The objective is to construct a residential tower of notable stature within the city. Subject to regulatory approvals, the development anticipates a structure comprising up to 30 floors, positioning it as a defining element of the city's architectural landscape.<br>
