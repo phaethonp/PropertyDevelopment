@@ -1,6 +1,6 @@
 # High-Rise Residential Tower
 ### Objective:
-Development and construction of a high-rise residential tower, comprising a series of upscale design  apartments. The project aims to attract capital contributions from Limited Partners (LPs) who, in return, will receive ownership of specific apartments within the tower.
+Development and construction of a high-rise residential tower, comprising a series of upscale design  apartments. We're inviting Limited Partners (LPs) to be an integral part of our journey. With each contribution, LPs will be securing specific apartments in the tower, all at a cost-centric valuation. This approach not only ensures a tangible return on investment but also positions our partners at a vantage point in the property market
 
 ### Structure: The Limited Partnership
 The project is managed under a Limited Partnership (LP) framework, with a General Partner (GP) overseeing the project's execution, management, and strategic decisions. 
