@@ -1,8 +1,8 @@
 # High-Rise Residential Tower
-### Objective:
+#### Objective:
 Development and construction of a high-rise residential tower, comprising a series of upscale design  apartments. We're inviting Limited Partners (LPs) to be an integral part of our journey. With each contribution, LPs will be securing specific apartments in the tower, all at a cost-centric valuation. This approach not only ensures a tangible return on investment but also positions our partners at a vantage point in the property market
 
-### Core Strategy
+#### Core Strategy
 **Cost-based Acquisition rate for Limited Partners:** <br>
 The Limited Partnership has strategically chosen to sell apartments at a cost base exclusively to real estate funds, rather than to individual investors or to end buyers. This approach allows these funds to acquire assets at a price that presents them as a lucrative investment. By creating a unique clientele of institutional investors, the fund ensures a continuous influx of capital and establishes long-term relationships that can lead to repeat business. This model not only streamlines our sales and marketing efforts but also aligns with our objective of ensuring steady and predictable sales cycles.<br>
 
@@ -12,12 +12,16 @@ Limited Partners (LPs) will obtain property assets with considerable appreciatio
 **Landmark Building Proposition:** <br>
 The objective is to construct a residential tower of notable stature within the city. Subject to regulatory approvals, the development anticipates a structure comprising up to 30 floors, positioning it as a defining element of the city's architectural landscape.<br>
 
-### Structure: The Limited Partnership
+#### Structure: The Limited Partnership
 The project is managed under a Limited Partnership (LP) framework, with a General Partner (GP) overseeing the project's execution, management, and strategic decisions. 
 
-### Capital Contributions & Apartment Allocation:
+#### Capital Contributions & Apartment Allocation:
 * LPs: When an LP invests in the project, their capital contribution is directly tied to a pre-determined number of apartments, the cost of which is calculated based on the actual development cost.
 * GP: As compensation for the management, oversight, and inherent risks undertaken, the GP will receive entitlement to 25% of all apartments constructed within the tower.
+
+#### Fair apartment split algorithm
+The apartment split among LPs is based on their proportionate investment in the project. An algorithm ensures that the split is equitable, considering factors like apartment size, floor level, and view orientation.
+
 
 ### Pricing Mechanism:
 The cost of each apartment is pre-determined before the LPs make their capital contribution. This provides clarity and transparency, ensuring that LPs are fully aware of what they receive in return for their investment.
@@ -43,8 +47,6 @@ The GP's primary compensation is in the form of real estate equity. Out of the t
 * Enhance value by Deliver a building management platform enabling tenants to manage their building and service amenities
 
 
-### Fair apartment split algorithm
-The apartment split among LPs is based on their proportionate investment in the project. An algorithm ensures that the split is equitable, considering factors like apartment size, floor level, and view orientation.
 
 ### Investment Strategies
 To achieve its strategies, the Partnership will acquire land in city centers that fall under the building incentives scheme in the Republic of Cyprus. The building incentives scheme offers increased building density height terms and expedited approvals for developments in designated areas, promoting urban development.
